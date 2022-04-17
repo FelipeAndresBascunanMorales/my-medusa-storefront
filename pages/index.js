@@ -16,11 +16,11 @@ export default function Home({ products }) {
           <h1 className={styles.title}>
             Medusa + Next.js Starter{" "}
             <span role="img" aria-label="Rocket emoji">
-              🚀
+              3, 2, 1... 🚀 despegue!
             </span>
           </h1>
           <p className={styles.description}>
-            Build blazing-fast client applications on top of a modular headless
+            Build blazing-fast and powerfull client applications on top of a modular headless
             commerce engine. Integrate seamlessly with any 3rd party tools for a
             best-in-breed commerce stack.
           </p>
